@@ -1,0 +1,14 @@
+aiohttp==3.8.4
+fastapi==0.93.0
+fqdn==1.5.1
+isoduration==20.11.0
+jsonpointer==2.3
+jupyter==1.0.0
+pip==23.0.1
+pkg-resources==0.0.0
+pytorch-lightning==1.9.4
+seaborn==0.12.2
+torchtext==0.15.1
+uri-template==1.2.0
+uvicorn==0.21.1
+webcolors==1.13

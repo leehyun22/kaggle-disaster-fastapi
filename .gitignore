@@ -1,0 +1,10 @@
+.env
+.venv
+.vscode
+data/*.csv
+models/*.pt
+models/*.ckpt
+__pycache__/
+/notebooks
+/lightning_logs
+
